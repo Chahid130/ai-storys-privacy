@@ -22,3 +22,31 @@ Je kunt jouw gegevens altijd verwijderen door de app van jouw apparaat te verwij
 
 ## Contact
 Naam: Chahid Faress | Land: Nederland | E-mail: cfstudio.dev@gmail.com
+
+
+---
+
+# Privacy Policy - AI Story's
+
+Last updated: May 17, 2026 | Developer: Chahid Faress | App: AI Story's - Make Your Own Story
+
+## Privacy
+AI Story's does not collect personal data. Stories, settings, names and avatars are stored locally on your device. We have no access to this data.
+
+## AI Processing
+For generating stories, the app uses the AI service of Anthropic (https://www.anthropic.com). Entered texts are temporarily processed to generate stories and are not stored on our servers.
+
+## Subscriptions and Payments
+Any subscriptions and payments are processed via Apple App Store or Google Play. We have no access to payment data.
+
+## Data Sharing
+We do not sell or share personal data with third parties.
+
+## Security
+Connections to our servers are secured via HTTPS. API keys are securely managed and are not visible in the app.
+
+## Your Rights
+You can always delete your data by removing the app from your device.
+
+## Contact
+Name: Chahid Faress | Country: Netherlands | Email: cfstudio.dev@gmail.com
