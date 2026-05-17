@@ -1,6 +1,6 @@
 # Privacybeleid - AI Story's
 
-Laatste update: 17 mei 2026 | Ontwikkelaar: Chahid Faress | App: AI Story's - Make Your Own Story
+Laatste update: 17 mei 2026 | Ontwikkelaar: CF Studio | App: AI Story's - Make Your Own Story
 
 ## Privacy
 AI Story's verzamelt geen persoonsgegevens. Verhalen, instellingen, namen en avatars worden lokaal opgeslagen op jouw apparaat. Wij hebben geen toegang tot deze gegevens.
@@ -21,14 +21,14 @@ Verbindingen met onze servers zijn beveiligd via HTTPS. API sleutels worden veil
 Je kunt jouw gegevens altijd verwijderen door de app van jouw apparaat te verwijderen.
 
 ## Contact
-Naam: Chahid Faress | Land: Nederland | E-mail: cfstudio.dev@gmail.com
+Naam: CF Studio | Land: Nederland | E-mail: cfstudio.dev@gmail.com
 
 
 ---
 
 # Privacy Policy - AI Story's
 
-Last updated: May 17, 2026 | Developer: Chahid Faress | App: AI Story's - Make Your Own Story
+Last updated: May 17, 2026 | Developer: CF Studio | App: AI Story's - Make Your Own Story
 
 ## Privacy
 AI Story's does not collect personal data. Stories, settings, names and avatars are stored locally on your device. We have no access to this data.
@@ -49,4 +49,4 @@ Connections to our servers are secured via HTTPS. API keys are securely managed 
 You can always delete your data by removing the app from your device.
 
 ## Contact
-Name: Chahid Faress | Country: Netherlands | Email: cfstudio.dev@gmail.com
+Name: CF Studio | Country: Netherlands | Email: cfstudio.dev@gmail.com
