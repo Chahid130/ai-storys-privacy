@@ -1,6 +1,6 @@
 # Privacybeleid - Written By You — Stories Powered By AI
 
-Laatste update: 17 mei 2026  
+Laatste update: 23 mei 2026  
 Ontwikkelaar: CF Studio  
 App: Written By You — Stories Powered By AI
 
