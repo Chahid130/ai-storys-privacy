@@ -33,7 +33,7 @@ E-mail: cfstudio.dev@gmail.com
 
 # Privacy Policy - Written By You — Stories Powered By AI
 
-Last updated: May 17, 2026  
+Last updated: May 23, 2026  
 Developer: CF Studio  
 App: Written By You — Stories Powered By AI
 
