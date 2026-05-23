@@ -1,6 +1,6 @@
 # Privacybeleid - Written By You — Stories Powered By AI
 
-Laatste update: 23 mei 2026  
+Laatste update: 17 mei 2026  
 Ontwikkelaar: CF Studio  
 App: Written By You — Stories Powered By AI
 
@@ -25,6 +25,9 @@ Je kunt jouw gegevens altijd verwijderen door de app van jouw apparaat te verwij
 Voor vragen, feedback of privacy gerelateerde verzoeken:
 
 E-mail: cfstudio.dev@gmail.com
+
+## Copyright
+© 2026 CF Studio. Alle rechten voorbehouden.
 
 ---
 
@@ -55,3 +58,6 @@ You can always delete your data by removing the app from your device.
 For questions, feedback or privacy related requests:
 
 Email: cfstudio.dev@gmail.com
+
+## Copyright
+© 2026 CF Studio. All rights reserved.
